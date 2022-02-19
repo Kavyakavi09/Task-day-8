@@ -57,3 +57,11 @@ She got a good rating as ${this.rating}`)
 let details = new Employee("Kavya K","Mathematics","5/5")
 details.companyEmployee();
 details.rockPerformance("Focus Edumatics PVT LTD");
+
+// output
+// My name is Kavya Karuppusamy, and I will be your Math Tutor.
+// I have handling grade 2 in maths
+// Kavya K is a good Tutor in our company.
+// She is handling 12 in Mathematics.
+// She got a good rating as 5/5
+// she is doing great progress in our company Focus Edumatics PVT LTD.
