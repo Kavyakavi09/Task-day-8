@@ -47,3 +47,12 @@ let film = new movie("Kings Man" , "Marv Films Cloudy Productions TSG Entertainm
 
 console.log(film);
 console.log(movie3.getPG(movieArray))
+
+//output
+
+// movie {
+//   title: 'Kings Man',
+//   studio: 'Marv Films Cloudy Productions TSG Entertainment',
+//   rating: 'PG13'
+// }
+// [ movie { title: 'Iron man', studio: 'marvel studios', rating: 'PG' } ]
