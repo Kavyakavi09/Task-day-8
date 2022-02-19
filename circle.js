@@ -37,10 +37,10 @@ console.log(obj.getCircumference());
 console.log(obj.toString());
 
 //Output
-PS C:\Users\kavya\OneDrive\Desktop\B32 WE TAMIL\jslearning> node script.js
-8.00
-green
-201.06
-50.27
-[ 8, 'green' ]
+//PS C:\Users\kavya\OneDrive\Desktop\B32 WE TAMIL\jslearning> node script.js
+//8.00
+//green
+//201.06
+//50.27
+//[ 8, 'green' ]
 
