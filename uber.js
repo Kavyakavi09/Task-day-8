@@ -25,3 +25,6 @@ class UberFare{
 
 let Uberfare = new UberFare(8,4);
 console.log(Uberfare.taxiFare());
+
+// output:
+// 163
